@@ -1,0 +1,1 @@
+# Chat-RAG-con-Python-Autor-Gabriel-Celis-Gutierrez-Asignatura-Ing-Conocimiento.ipynb
